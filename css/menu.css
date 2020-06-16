@@ -4,3 +4,13 @@ header {
 #logo {
     height: 100px;
 }
+ul {
+    float: right;
+    margin-top: 35px;
+}
+ul li {
+    color: white;
+    display: inline;
+    font-size: 150%;
+    margin-right: 10px;
+}
